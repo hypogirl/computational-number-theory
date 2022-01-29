@@ -62,6 +62,6 @@ def main(bits):
     print("\nstrong_prime =",gordon(nbits),"\n\n")
     return log_print()
 
-if __name__ == "__main__":
-    nbits = int(input("Number of bits?"))
-    main(nbits)
+#if __name__ == "__main__":
+#    nbits = int(input("Number of bits?"))
+#    main(nbits)
