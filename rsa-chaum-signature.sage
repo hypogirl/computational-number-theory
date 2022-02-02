@@ -1,5 +1,5 @@
 import hashlib
-load("hw1.sage")
+load("gordon-method.sage")
 
 def generate_keys(nbits):
     p,q = gordon(nbits),gordon(nbits)
